@@ -1,0 +1,4 @@
+*.pdf
+*.doc
+*.docx
+!Smart_Irrigation.py
